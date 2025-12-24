@@ -1,0 +1,10 @@
+OrderID,Date,Customer,Region,Product,Quantity,Price
+101,2024-01-05,Rahul,North,Laptop,1,55000
+102,2024-01-07,Amit,South,Mobile,2,20000
+103,2024-01-10,Sneha,East,Headphones,3,2000
+104,2024-01-12,Priya,West,Laptop,1,55000
+105,2024-02-02,Rahul,North,Mobile,1,20000
+106,2024-02-05,Amit,South,Laptop,1,55000
+107,2024-02-10,Sneha,East,Mobile,2,20000
+108,2024-02-15,Priya,West,Headphones,2,2000
+
